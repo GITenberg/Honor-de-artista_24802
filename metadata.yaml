@@ -1,0 +1,27 @@
+_repo: Honor-de-artista_24802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Feuillet, Octave
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '1342'
+    url: http://www.gutenberg.org/2009/agents/1342
+    wikipedia: http://en.wikipedia.org/wiki/Octave_Feuillet
+description: ''
+gutenberg_issued: '2008-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24802'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Honor de artista
+url: http://www.gutenberg.org/ebooks/24802
